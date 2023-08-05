@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description", content="Click to chat is a tool to open chat window of Social media apps like WhatsApp and Telegram without the requirement of saving the number">
+    <meta name="keywords" content="WhatsApp Telegram wa.me t.me wa.me/ t.me/">
+
+    <title>Click to chat - Chat without saving the number</title>
+
+    <link type="image/png" sizes="16x16" rel="icon" href="images/favicon.png">
+    <link type="image/png" sizes="32x32" rel="shortcut icon" href="images/favicon.png">
+    <link rel="apple-touch-icon" href="/images/favicon.png" />
+    <link href="style.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div id="container">
+        <h2>Click to chat</h2>
+        <h5>Chat with people without saving there numbers</h5>
+        <hr />
+        <label>Enter receiver's mobile number</label>
+        <br><br>
+        <input id="mobileNo" type="tel" placeholder="e.g. 9876543210" maxlength="15"/>
+        <br>
+        <button id="wa-btn" class="btn" onclick="openWhatsApp()"><img src="images/whatsapp.png" class="btn-img"/>Open WhatsApp</button>
+        <button id="telegram-btn" class="btn" onclick="openTelegram()"><img src="images/telegram_logo.png" class="btn-img"/>Open Telegram</button>
+    </div>
+    <p id="credits">Crafted by <a href="https://github.com/vkgupta857" target="_blank">Vinod</a></p>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
