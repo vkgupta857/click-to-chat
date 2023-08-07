@@ -4,7 +4,7 @@ Click to chat is a tool that let's you chat with people on WhatsApp, Telegram wi
 
 ### Disclaimer
 
-Dislaimer: This tool uses public links, which sometimes may not work as expected. Also, this tool is not associated with either WhatsApp LLC or Telegram Org.
+Disclaimer: This tool uses public links, which sometimes may not work as expected. Also, this tool is not associated with either WhatsApp LLC or Telegram Org.
 
 ### Description
 
